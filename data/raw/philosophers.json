@@ -1,0 +1,3214 @@
+[
+  {
+    "id": "a_j_ayer",
+    "name": "A.J. Ayer",
+    "tradition": "Western",
+    "eras": [
+      "Modern"
+    ],
+    "domains": [
+      "Metaphysics"
+    ],
+    "works": [
+      "Language, Truth, and Logic"
+    ]
+  },
+  {
+    "id": "adam_smith",
+    "name": "Adam Smith",
+    "tradition": "Western",
+    "eras": [
+      "Early Modern"
+    ],
+    "domains": [
+      "Early modern"
+    ],
+    "works": [
+      "The Theory of Moral Sentiments",
+      "The Wealth of Nations"
+    ]
+  },
+  {
+    "id": "aksapada_gautama",
+    "name": "Aksapada Gautama",
+    "tradition": "Eastern",
+    "eras": [
+      "Various"
+    ],
+    "domains": [
+      "Indian philosophy"
+    ],
+    "works": [
+      "Nyaya Sutras"
+    ]
+  },
+  {
+    "id": "al_ghazali",
+    "name": "Al-Ghazali",
+    "tradition": "Eastern",
+    "eras": [
+      "Medieval"
+    ],
+    "domains": [
+      "Islamic philosophy"
+    ],
+    "works": [
+      "The Incoherence of the Philosophers"
+    ]
+  },
+  {
+    "id": "alain_badiou",
+    "name": "Alain Badiou",
+    "tradition": "Western",
+    "eras": [
+      "Unknown"
+    ],
+    "domains": [
+      "Contemporary"
+    ],
+    "works": [
+      "Being and Event"
+    ]
+  },
+  {
+    "id": "alan_gewirth",
+    "name": "Alan Gewirth",
+    "tradition": "Western",
+    "eras": [
+      "Modern"
+    ],
+    "domains": [
+      "Modern ethics"
+    ],
+    "works": [
+      "Reason and Morality"
+    ]
+  },
+  {
+    "id": "alasdair_macintyre",
+    "name": "Alasdair MacIntyre",
+    "tradition": "Western",
+    "eras": [
+      "Modern"
+    ],
+    "domains": [
+      "Modern ethics"
+    ],
+    "works": [
+      "After Virtue"
+    ]
+  },
+  {
+    "id": "albert_camus",
+    "name": "Albert Camus",
+    "tradition": "Western",
+    "eras": [
+      "Unknown"
+    ],
+    "domains": [
+      "Contemporary"
+    ],
+    "works": [
+      "Myth of Sisyphus"
+    ]
+  },
+  {
+    "id": "alfred_north_whitehead",
+    "name": "Alfred North Whitehead",
+    "tradition": "Western",
+    "eras": [
+      "Modern",
+      "Contemporary"
+    ],
+    "domains": [
+      "Metaphysics",
+      "Mathematics"
+    ],
+    "works": [
+      "Process and Reality",
+      "Principia Mathematica"
+    ]
+  },
+  {
+    "id": "alfred_tarski",
+    "name": "Alfred Tarski",
+    "tradition": "Western",
+    "eras": [
+      "Modern"
+    ],
+    "domains": [
+      "Logic"
+    ],
+    "works": [
+      "The Concept of Truth"
+    ]
+  },
+  {
+    "id": "allan_gibbard",
+    "name": "Allan Gibbard",
+    "tradition": "Western",
+    "eras": [
+      "Modern"
+    ],
+    "domains": [
+      "Modern ethics"
+    ],
+    "works": [
+      "Thinking How to Live"
+    ]
+  },
+  {
+    "id": "alvin_goldman",
+    "name": "Alvin Goldman",
+    "tradition": "Western",
+    "eras": [
+      "Modern"
+    ],
+    "domains": [
+      "Epistemology"
+    ],
+    "works": [
+      "Epistemology and Cognition",
+      "What is Justified Belief?"
+    ]
+  },
+  {
+    "id": "alvin_plantinga",
+    "name": "Alvin Plantinga",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Religion"
+    ],
+    "works": [
+      "God and Other Minds",
+      "Is Belief in God Properly Basic"
+    ]
+  },
+  {
+    "id": "andy_clark",
+    "name": "Andy Clark",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Philosophy of the mind"
+    ],
+    "works": [
+      "Supersizing the Mind: Embodiment, Action, and Cognitive Extension"
+    ]
+  },
+  {
+    "id": "anselm_of_canterbury",
+    "name": "Anselm of Canterbury",
+    "tradition": "Western",
+    "eras": [
+      "Medieval"
+    ],
+    "domains": [
+      "Christian and Medieval"
+    ],
+    "works": [
+      "Proslogion"
+    ]
+  },
+  {
+    "id": "aristotle",
+    "name": "Aristotle",
+    "tradition": "Western",
+    "eras": [
+      "Ancient",
+      "Modern",
+      "Contemporary",
+      "Unknown"
+    ],
+    "domains": [
+      "Classical ethics",
+      "Metaphysics",
+      "Physics",
+      "Literature",
+      "Politics"
+    ],
+    "works": [
+      "Nichomachean Ethics",
+      "On Virtues and Vices",
+      "Metaphysics",
+      "Physics",
+      "Poetics",
+      "Politics"
+    ]
+  },
+  {
+    "id": "arthur_c_danto",
+    "name": "Arthur C. Danto",
+    "tradition": "Western",
+    "eras": [
+      "Modern"
+    ],
+    "domains": [
+      "Aesthetics"
+    ],
+    "works": [
+      "After the End of Art"
+    ]
+  },
+  {
+    "id": "arthur_schopenhauer",
+    "name": "Arthur Schopenhauer",
+    "tradition": "Western",
+    "eras": [
+      "Early Modern"
+    ],
+    "domains": [
+      "Early modern"
+    ],
+    "works": [
+      "The World as Will and Representation"
+    ]
+  },
+  {
+    "id": "auguste_comte",
+    "name": "Auguste Comte",
+    "tradition": "Western",
+    "eras": [
+      "Early Modern"
+    ],
+    "domains": [
+      "Early modern"
+    ],
+    "works": [
+      "Course of Positive Philosophy"
+    ]
+  },
+  {
+    "id": "augustine_of_hippo",
+    "name": "Augustine of Hippo",
+    "tradition": "Western",
+    "eras": [
+      "Medieval"
+    ],
+    "domains": [
+      "Christian and Medieval"
+    ],
+    "works": [
+      "Confessions",
+      "The City of God"
+    ]
+  },
+  {
+    "id": "b_f_skinner",
+    "name": "B.F. Skinner",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Education",
+      "Sociology"
+    ],
+    "works": [
+      "Walden Two",
+      "Science and Human Behavior"
+    ]
+  },
+  {
+    "id": "baruch_spinoza",
+    "name": "Baruch Spinoza",
+    "tradition": "Western",
+    "eras": [
+      "Early Modern"
+    ],
+    "domains": [
+      "Early modern"
+    ],
+    "works": [
+      "Ethics",
+      "Tractatus Theologico-Politicus"
+    ]
+  },
+  {
+    "id": "bas_c_van_fraassen",
+    "name": "Bas C. van Fraassen",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Science"
+    ],
+    "works": [
+      "The Scientific Image"
+    ]
+  },
+  {
+    "id": "bernard_williams",
+    "name": "Bernard Williams",
+    "tradition": "Western",
+    "eras": [
+      "Modern",
+      "Unknown"
+    ],
+    "domains": [
+      "Modern ethics",
+      "Arts and Humanities"
+    ],
+    "works": [
+      "Ethics and the Limits of Philosophy",
+      "Philosophy as a Humanistic Discipline"
+    ]
+  },
+  {
+    "id": "bertrand_russell",
+    "name": "Bertrand Russell",
+    "tradition": "Western",
+    "eras": [
+      "Modern",
+      "Unknown",
+      "Contemporary"
+    ],
+    "domains": [
+      "Epistemology",
+      "Western civilization",
+      "Mathematics",
+      "Language"
+    ],
+    "works": [
+      "The Problems of Philosophy",
+      "A History of Western Philosophy",
+      "Principia Mathematica",
+      "On Denoting"
+    ]
+  },
+  {
+    "id": "blaise_pascal",
+    "name": "Blaise Pascal",
+    "tradition": "Western",
+    "eras": [
+      "Early Modern"
+    ],
+    "domains": [
+      "Early modern"
+    ],
+    "works": [
+      "Pensées"
+    ]
+  },
+  {
+    "id": "carl_craver",
+    "name": "Carl Craver",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Neuroscience"
+    ],
+    "works": [
+      "Explaining the brain : mechanisms and the mosaic unity of neuroscience"
+    ]
+  },
+  {
+    "id": "charles_sanders_peirce",
+    "name": "Charles Sanders Peirce",
+    "tradition": "Western",
+    "eras": [
+      "Modern"
+    ],
+    "domains": [
+      "Logic"
+    ],
+    "works": [
+      "How to Make Our Ideas Clear"
+    ]
+  },
+  {
+    "id": "charles_weingartner",
+    "name": "Charles Weingartner",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Education"
+    ],
+    "works": [
+      "Teaching as a Subversive Activity"
+    ]
+  },
+  {
+    "id": "chris_isham",
+    "name": "Chris Isham",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Physics"
+    ],
+    "works": [
+      "On the Emergence of Time in Quantum Gravity"
+    ]
+  },
+  {
+    "id": "christine_korsgaard",
+    "name": "Christine Korsgaard",
+    "tradition": "Western",
+    "eras": [
+      "Modern"
+    ],
+    "domains": [
+      "Modern ethics"
+    ],
+    "works": [
+      "The Sources of Normativity"
+    ]
+  },
+  {
+    "id": "clive_bell",
+    "name": "Clive Bell",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Art"
+    ],
+    "works": [
+      "Art"
+    ]
+  },
+  {
+    "id": "cora_diamond",
+    "name": "Cora Diamond",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Language"
+    ],
+    "works": [
+      "What Nonsense Might Be"
+    ]
+  },
+  {
+    "id": "d_m_armstrong",
+    "name": "D.M. Armstrong",
+    "tradition": "Western",
+    "eras": [
+      "Modern",
+      "Contemporary"
+    ],
+    "domains": [
+      "Metaphysics",
+      "Philosophy of the mind"
+    ],
+    "works": [
+      "Universals and Scientific Realism",
+      "A Materialist Theory of the Mind"
+    ]
+  },
+  {
+    "id": "daniel_dennett",
+    "name": "Daniel Dennett",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Philosophy of the mind",
+      "Biology"
+    ],
+    "works": [
+      "Consciousness Explained",
+      "Darwin's Dangerous Idea"
+    ]
+  },
+  {
+    "id": "david_chalmers",
+    "name": "David Chalmers",
+    "tradition": "Western",
+    "eras": [
+      "Modern",
+      "Contemporary"
+    ],
+    "domains": [
+      "Metaphysics",
+      "Philosophy of the mind",
+      "Language"
+    ],
+    "works": [
+      "Constructing the World",
+      "Philosophy of Mind: Classical and Contemporary Readings",
+      "The Character of Consciousness",
+      "The Conscious Mind: In Search of a Fundamental Theory",
+      "Two Dimensional Semantics"
+    ]
+  },
+  {
+    "id": "david_gauthier",
+    "name": "David Gauthier",
+    "tradition": "Western",
+    "eras": [
+      "Modern"
+    ],
+    "domains": [
+      "Modern ethics"
+    ],
+    "works": [
+      "Morals by Agreement"
+    ]
+  },
+  {
+    "id": "david_hume",
+    "name": "David Hume",
+    "tradition": "Western",
+    "eras": [
+      "Early Modern"
+    ],
+    "domains": [
+      "Early modern"
+    ],
+    "works": [
+      "A Treatise of Human Nature",
+      "Four Dissertationss",
+      "Essays, Moral, Political, and Literary",
+      "An Enquiry Concerning Human Understanding",
+      "An Enquiry Concerning the Principles of Morals"
+    ]
+  },
+  {
+    "id": "david_k_lewis",
+    "name": "David K. Lewis",
+    "tradition": "Western",
+    "eras": [
+      "Modern",
+      "Contemporary"
+    ],
+    "domains": [
+      "Epistemology",
+      "Metaphysics",
+      "Science",
+      "Language"
+    ],
+    "works": [
+      "Elusive Knowledge",
+      "On the Plurality of Worlds",
+      "How to Define Theoretical Terms",
+      "General Semantics"
+    ]
+  },
+  {
+    "id": "david_spurrett",
+    "name": "David Spurrett",
+    "tradition": "Western",
+    "eras": [
+      "Modern"
+    ],
+    "domains": [
+      "Metaphysics"
+    ],
+    "works": [
+      "Every Thing Must Go: Metaphysics Naturalized"
+    ]
+  },
+  {
+    "id": "derek_parfit",
+    "name": "Derek Parfit",
+    "tradition": "Western",
+    "eras": [
+      "Modern"
+    ],
+    "domains": [
+      "Modern ethics",
+      "Metaphysics"
+    ],
+    "works": [
+      "Reasons and Persons",
+      "On What Matters"
+    ]
+  },
+  {
+    "id": "desiderius_erasmus",
+    "name": "Desiderius Erasmus",
+    "tradition": "Western",
+    "eras": [
+      "Early Modern"
+    ],
+    "domains": [
+      "Early modern"
+    ],
+    "works": [
+      "The Praise of Folly"
+    ]
+  },
+  {
+    "id": "dewi_zephaniah_phillips",
+    "name": "Dewi Zephaniah Phillips",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Religion"
+    ],
+    "works": [
+      "Religion Without Explanation"
+    ]
+  },
+  {
+    "id": "dogen_zenji",
+    "name": "Dogen Zenji",
+    "tradition": "Eastern",
+    "eras": [
+      "Various"
+    ],
+    "domains": [
+      "Japanese philosophy"
+    ],
+    "works": [
+      "Shōbōgenzō"
+    ]
+  },
+  {
+    "id": "don_marquis",
+    "name": "Don Marquis",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Bioethics"
+    ],
+    "works": [
+      "Why Abortion is Immoral"
+    ]
+  },
+  {
+    "id": "don_ross",
+    "name": "Don Ross",
+    "tradition": "Western",
+    "eras": [
+      "Modern"
+    ],
+    "domains": [
+      "Metaphysics"
+    ],
+    "works": [
+      "Every Thing Must Go: Metaphysics Naturalized"
+    ]
+  },
+  {
+    "id": "donald_davidson",
+    "name": "Donald Davidson",
+    "tradition": "Western",
+    "eras": [
+      "Modern",
+      "Contemporary"
+    ],
+    "domains": [
+      "Logic",
+      "Psychology"
+    ],
+    "works": [
+      "Truth and Meaning",
+      "The Very Idea of a Conceptual Scheme"
+    ]
+  },
+  {
+    "id": "duns_scotus",
+    "name": "Duns Scotus",
+    "tradition": "Western",
+    "eras": [
+      "Medieval"
+    ],
+    "domains": [
+      "Christian and Medieval ethics"
+    ],
+    "works": [
+      "Philosophical Writings"
+    ]
+  },
+  {
+    "id": "edmund_gettier",
+    "name": "Edmund Gettier",
+    "tradition": "Western",
+    "eras": [
+      "Modern"
+    ],
+    "domains": [
+      "Epistemology"
+    ],
+    "works": [
+      "Is Justified True Belief Knowledge?"
+    ]
+  },
+  {
+    "id": "edmund_husserl",
+    "name": "Edmund Husserl",
+    "tradition": "Western",
+    "eras": [
+      "Unknown"
+    ],
+    "domains": [
+      "Contemporary"
+    ],
+    "works": [
+      "Logical Investigations",
+      "Cartesian Meditations",
+      "Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy"
+    ]
+  },
+  {
+    "id": "elizabeth_s_anderson",
+    "name": "Elizabeth S. Anderson",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Economics"
+    ],
+    "works": [
+      "Value in Ethics and Economics"
+    ]
+  },
+  {
+    "id": "elliott_sober",
+    "name": "Elliott Sober",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Biology"
+    ],
+    "works": [
+      "The Nature of Selection"
+    ]
+  },
+  {
+    "id": "erwin_schr_dinger",
+    "name": "Erwin Schrödinger",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Biology"
+    ],
+    "works": []
+  },
+  {
+    "id": "felix_guattari",
+    "name": "Felix Guattari",
+    "tradition": "Western",
+    "eras": [
+      "Unknown"
+    ],
+    "domains": [
+      "Contemporary"
+    ],
+    "works": [
+      "Capitalism and Schizophrenia"
+    ]
+  },
+  {
+    "id": "friedrich_nietzsche",
+    "name": "Friedrich Nietzsche",
+    "tradition": "Western",
+    "eras": [
+      "Early Modern"
+    ],
+    "domains": [
+      "Early modern"
+    ],
+    "works": [
+      "Thus Spoke Zarathustra",
+      "Beyond Good and Evil",
+      "On the Genealogy of Morals"
+    ]
+  },
+  {
+    "id": "g_e_moore",
+    "name": "G.E. Moore",
+    "tradition": "Western",
+    "eras": [
+      "Modern"
+    ],
+    "domains": [
+      "Modern ethics",
+      "Epistemology"
+    ],
+    "works": [
+      "Principia Ethica",
+      "A Defence of Common Sense"
+    ]
+  },
+  {
+    "id": "g_e_m_anscombe",
+    "name": "G.E.M. Anscombe",
+    "tradition": "Western",
+    "eras": [
+      "Modern"
+    ],
+    "domains": [
+      "Modern ethics"
+    ],
+    "works": [
+      "Modern Moral Philosophy"
+    ]
+  },
+  {
+    "id": "georg_lukacs",
+    "name": "Georg Lukacs",
+    "tradition": "Western",
+    "eras": [
+      "Unknown"
+    ],
+    "domains": [
+      "Contemporary"
+    ],
+    "works": [
+      "History and Class Consciousness"
+    ]
+  },
+  {
+    "id": "georg_northoff",
+    "name": "Georg Northoff",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Neuroscience"
+    ],
+    "works": [
+      "Philosophy of the Brain: The brain problem"
+    ]
+  },
+  {
+    "id": "georg_wilhelm_friedrich_hegel",
+    "name": "Georg Wilhelm Friedrich Hegel",
+    "tradition": "Western",
+    "eras": [
+      "Early Modern"
+    ],
+    "domains": [
+      "Early modern"
+    ],
+    "works": [
+      "Phenomenology of Spirit",
+      "Science of Logic",
+      "The Philosophy of Right",
+      "The Philosophy of History"
+    ]
+  },
+  {
+    "id": "george_berkeley",
+    "name": "George Berkeley",
+    "tradition": "Western",
+    "eras": [
+      "Early Modern"
+    ],
+    "domains": [
+      "Early modern"
+    ],
+    "works": [
+      "Treatise Concerning the Principles of Human Knowledge"
+    ]
+  },
+  {
+    "id": "george_boolos",
+    "name": "George Boolos",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Mathematics"
+    ],
+    "works": [
+      "Logic, Logic and Logic"
+    ]
+  },
+  {
+    "id": "george_dickie",
+    "name": "George Dickie",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Art"
+    ],
+    "works": [
+      "Art and the Aesthetic"
+    ]
+  },
+  {
+    "id": "george_santayana",
+    "name": "George Santayana",
+    "tradition": "Western",
+    "eras": [
+      "Modern"
+    ],
+    "domains": [
+      "Aesthetics"
+    ],
+    "works": [
+      "The Sense of Beauty"
+    ]
+  },
+  {
+    "id": "gilbert_ryle",
+    "name": "Gilbert Ryle",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Philosophy of the mind"
+    ],
+    "works": [
+      "The Concept of Mind"
+    ]
+  },
+  {
+    "id": "gilles_deleuze",
+    "name": "Gilles Deleuze",
+    "tradition": "Western",
+    "eras": [
+      "Unknown"
+    ],
+    "domains": [
+      "Contemporary"
+    ],
+    "works": [
+      "Difference and Repetition",
+      "Capitalism and Schizophrenia"
+    ]
+  },
+  {
+    "id": "gottfried_leibniz",
+    "name": "Gottfried Leibniz",
+    "tradition": "Western",
+    "eras": [
+      "Early Modern"
+    ],
+    "domains": [
+      "Early modern"
+    ],
+    "works": [
+      "Discourse on Metaphysics",
+      "New Essays Concerning Human Understanding",
+      "Théodicée",
+      "Monadology"
+    ]
+  },
+  {
+    "id": "gottlob_frege",
+    "name": "Gottlob Frege",
+    "tradition": "Western",
+    "eras": [
+      "Modern",
+      "Contemporary"
+    ],
+    "domains": [
+      "Logic",
+      "Language"
+    ],
+    "works": [
+      "Begriffsschrift",
+      "On Sense and Reference"
+    ]
+  },
+  {
+    "id": "h_l_a_hart",
+    "name": "H.L.A. Hart",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Law"
+    ],
+    "works": [
+      "The Concept of Law"
+    ]
+  },
+  {
+    "id": "h_p_grice",
+    "name": "H.P. Grice",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Language"
+    ],
+    "works": [
+      "Logic and Conversation"
+    ]
+  },
+  {
+    "id": "hakuin_ekaku",
+    "name": "Hakuin Ekaku",
+    "tradition": "Eastern",
+    "eras": [
+      "Various"
+    ],
+    "domains": [
+      "Japanese philosophy"
+    ],
+    "works": [
+      "Wild Ivy"
+    ]
+  },
+  {
+    "id": "han_fei",
+    "name": "Han Fei",
+    "tradition": "Eastern",
+    "eras": [
+      "Various"
+    ],
+    "domains": [
+      "Chinese philosophy"
+    ],
+    "works": [
+      "Han Feizi"
+    ]
+  },
+  {
+    "id": "hans_reichenbach",
+    "name": "Hans Reichenbach",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Science"
+    ],
+    "works": [
+      "The Rise of Scientific Philosophy"
+    ]
+  },
+  {
+    "id": "hans_georg_gadamer",
+    "name": "Hans-Georg Gadamer",
+    "tradition": "Western",
+    "eras": [
+      "Unknown"
+    ],
+    "domains": [
+      "Contemporary"
+    ],
+    "works": [
+      "Truth and Method"
+    ]
+  },
+  {
+    "id": "harriet_taylor_mill",
+    "name": "Harriet Taylor Mill",
+    "tradition": "Western",
+    "eras": [
+      "Early Modern"
+    ],
+    "domains": [
+      "Early modern"
+    ],
+    "works": [
+      "The Subjection of Women"
+    ]
+  },
+  {
+    "id": "hartry_field",
+    "name": "Hartry Field",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Mathematics"
+    ],
+    "works": [
+      "Science without Numbers: The Defence of Nominalism"
+    ]
+  },
+  {
+    "id": "henri_bergson",
+    "name": "Henri Bergson",
+    "tradition": "Western",
+    "eras": [
+      "Early Modern"
+    ],
+    "domains": [
+      "Early modern"
+    ],
+    "works": [
+      "Time and Free Will",
+      "Matter and Memory"
+    ]
+  },
+  {
+    "id": "henrik_walter",
+    "name": "Henrik Walter",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Neuroscience"
+    ],
+    "works": [
+      "Neurophilosophy of Free Will: From Libertarian Illusions to a Concept of Natural Autonomy"
+    ]
+  },
+  {
+    "id": "henry_sidgwick",
+    "name": "Henry Sidgwick",
+    "tradition": "Western",
+    "eras": [
+      "Early Modern"
+    ],
+    "domains": [
+      "Early modern"
+    ],
+    "works": [
+      "The Methods of Ethics"
+    ]
+  },
+  {
+    "id": "herbert_marcuse",
+    "name": "Herbert Marcuse",
+    "tradition": "Western",
+    "eras": [
+      "Unknown"
+    ],
+    "domains": [
+      "Contemporary"
+    ],
+    "works": [
+      "Reason and Revolution",
+      "Eros and Civilization"
+    ]
+  },
+  {
+    "id": "herbert_spencer",
+    "name": "Herbert Spencer",
+    "tradition": "Western",
+    "eras": [
+      "Early Modern"
+    ],
+    "domains": [
+      "Early modern"
+    ],
+    "works": [
+      "System of Synthetic Philosophy"
+    ]
+  },
+  {
+    "id": "hilary_kornblith",
+    "name": "Hilary Kornblith",
+    "tradition": "Western",
+    "eras": [
+      "Modern"
+    ],
+    "domains": [
+      "Epistemology"
+    ],
+    "works": [
+      "Knowledge and its Place in Nature"
+    ]
+  },
+  {
+    "id": "hilary_putnam",
+    "name": "Hilary Putnam",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Mathematics"
+    ],
+    "works": [
+      "Philosophy of Mathematics: Selected Readings"
+    ]
+  },
+  {
+    "id": "honen",
+    "name": "Honen",
+    "tradition": "Eastern",
+    "eras": [
+      "Various"
+    ],
+    "domains": [
+      "Japanese philosophy"
+    ],
+    "works": [
+      "One-Sheet Document"
+    ]
+  },
+  {
+    "id": "hugo_grotius",
+    "name": "Hugo Grotius",
+    "tradition": "Western",
+    "eras": [
+      "Early Modern"
+    ],
+    "domains": [
+      "Early modern"
+    ],
+    "works": [
+      "De iure belli ac pacis"
+    ]
+  },
+  {
+    "id": "immanuel_kant",
+    "name": "Immanuel Kant",
+    "tradition": "Western",
+    "eras": [
+      "Modern",
+      "Early Modern"
+    ],
+    "domains": [
+      "Metaphysics",
+      "Early modern"
+    ],
+    "works": [
+      "Groundwork of the Metaphysics of Morals",
+      "A Critique of Pure Reason",
+      "Critique of Practical Reason",
+      "A Critique of Judgement"
+    ]
+  },
+  {
+    "id": "imre_lakatos",
+    "name": "Imre Lakatos",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Mathematics"
+    ],
+    "works": [
+      "Proofs and Refutations"
+    ]
+  },
+  {
+    "id": "isaiah_berlin",
+    "name": "Isaiah Berlin",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Politics"
+    ],
+    "works": [
+      "Two Concepts of Liberty"
+    ]
+  },
+  {
+    "id": "isvarakrsna",
+    "name": "Isvarakrsna",
+    "tradition": "Eastern",
+    "eras": [
+      "Various"
+    ],
+    "domains": [
+      "Indian philosophy"
+    ],
+    "works": [
+      "Sankhya Karika"
+    ]
+  },
+  {
+    "id": "j_l_austin",
+    "name": "J.L. Austin",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Language"
+    ],
+    "works": [
+      "A Plea for Excuses",
+      "How To Do Things With Words"
+    ]
+  },
+  {
+    "id": "j_l_mackie",
+    "name": "J.L. Mackie",
+    "tradition": "Western",
+    "eras": [
+      "Modern",
+      "Contemporary"
+    ],
+    "domains": [
+      "Modern ethics",
+      "Religion"
+    ],
+    "works": [
+      "Ethics: Inventing Right and Wrong",
+      "The Miracle of Theism"
+    ]
+  },
+  {
+    "id": "j_l_schellenberg",
+    "name": "J.L. Schellenberg",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Religion"
+    ],
+    "works": [
+      "Divine Hiddenness and Human Reason"
+    ]
+  },
+  {
+    "id": "jaap_van_brakel",
+    "name": "Jaap van Brakel",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Chemistry"
+    ],
+    "works": [
+      "Philosophy of Chemistry"
+    ]
+  },
+  {
+    "id": "jacques_derrida",
+    "name": "Jacques Derrida",
+    "tradition": "Western",
+    "eras": [
+      "Unknown"
+    ],
+    "domains": [
+      "Contemporary"
+    ],
+    "works": [
+      "Of Grammatology"
+    ]
+  },
+  {
+    "id": "jaegwon_kim",
+    "name": "Jaegwon Kim",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Philosophy of the mind"
+    ],
+    "works": [
+      "Philosophy of Mind"
+    ]
+  },
+  {
+    "id": "james_ladyman",
+    "name": "James Ladyman",
+    "tradition": "Western",
+    "eras": [
+      "Modern"
+    ],
+    "domains": [
+      "Metaphysics"
+    ],
+    "works": [
+      "Every Thing Must Go: Metaphysics Naturalized"
+    ]
+  },
+  {
+    "id": "jason_stanley",
+    "name": "Jason Stanley",
+    "tradition": "Western",
+    "eras": [
+      "Modern"
+    ],
+    "domains": [
+      "Epistemology"
+    ],
+    "works": [
+      "Knowledge and Practical Interest"
+    ]
+  },
+  {
+    "id": "jean_jacques_rousseau",
+    "name": "Jean-Jacques Rousseau",
+    "tradition": "Western",
+    "eras": [
+      "Early Modern"
+    ],
+    "domains": [
+      "Early modern"
+    ],
+    "works": [
+      "Discourse on the Arts and Sciences",
+      "Emile: or, On Education",
+      "The Social Contract"
+    ]
+  },
+  {
+    "id": "jean_paul_sartre",
+    "name": "Jean-Paul Sartre",
+    "tradition": "Western",
+    "eras": [
+      "Unknown"
+    ],
+    "domains": [
+      "Contemporary"
+    ],
+    "works": [
+      "Being and Nothingness",
+      "Critique of Dialectical Reason"
+    ]
+  },
+  {
+    "id": "jeremy_bentham",
+    "name": "Jeremy Bentham",
+    "tradition": "Western",
+    "eras": [
+      "Early Modern"
+    ],
+    "domains": [
+      "Early modern"
+    ],
+    "works": [
+      "An Introduction to the Principles of Morals and Legislation"
+    ]
+  },
+  {
+    "id": "jeremy_butterfield",
+    "name": "Jeremy Butterfield",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Physics"
+    ],
+    "works": [
+      "On the Emergence of Time in Quantum Gravity"
+    ]
+  },
+  {
+    "id": "johann_gottlieb_fichte",
+    "name": "Johann Gottlieb Fichte",
+    "tradition": "Western",
+    "eras": [
+      "Early Modern"
+    ],
+    "domains": [
+      "Early modern"
+    ],
+    "works": [
+      "Foundations of the Science of Knowledge"
+    ]
+  },
+  {
+    "id": "john_bickle",
+    "name": "John Bickle",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Neuroscience"
+    ],
+    "works": [
+      "Revisionary Physicalism",
+      "Psychoneural Reduction of the Genuinely Cognitive: Some Accomplished Facts",
+      "Psychoneural Reduction: The New Wave",
+      " Philosophy and Neuroscience: A Ruthlessly Reductive Account"
+    ]
+  },
+  {
+    "id": "john_collier",
+    "name": "John Collier",
+    "tradition": "Western",
+    "eras": [
+      "Modern"
+    ],
+    "domains": [
+      "Metaphysics"
+    ],
+    "works": [
+      "Every Thing Must Go: Metaphysics Naturalized"
+    ]
+  },
+  {
+    "id": "john_dewey",
+    "name": "John Dewey",
+    "tradition": "Western",
+    "eras": [
+      "Modern",
+      "Contemporary"
+    ],
+    "domains": [
+      "Metaphysics",
+      "Education"
+    ],
+    "works": [
+      "Experience and Nature",
+      "Democracy and Education"
+    ]
+  },
+  {
+    "id": "john_finnis",
+    "name": "John Finnis",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Law"
+    ],
+    "works": [
+      "Natural Law and Natural Rights"
+    ]
+  },
+  {
+    "id": "john_locke",
+    "name": "John Locke",
+    "tradition": "Western",
+    "eras": [
+      "Early Modern"
+    ],
+    "domains": [
+      "Early modern"
+    ],
+    "works": [
+      "Two Treatises of Government",
+      "An Essay Concerning Human Understanding"
+    ]
+  },
+  {
+    "id": "john_mcdowell",
+    "name": "John McDowell",
+    "tradition": "Western",
+    "eras": [
+      "Modern"
+    ],
+    "domains": [
+      "Modern ethics",
+      "Metaphysics"
+    ],
+    "works": [
+      "Values and Secondary Qualities",
+      "Mind and World"
+    ]
+  },
+  {
+    "id": "john_rawls",
+    "name": "John Rawls",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Politics"
+    ],
+    "works": [
+      "A Theory of Justice"
+    ]
+  },
+  {
+    "id": "john_searle",
+    "name": "John Searle",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Language"
+    ],
+    "works": [
+      "Speech Acts"
+    ]
+  },
+  {
+    "id": "john_stuart_mill",
+    "name": "John Stuart Mill",
+    "tradition": "Western",
+    "eras": [
+      "Early Modern"
+    ],
+    "domains": [
+      "Early modern"
+    ],
+    "works": [
+      "On Liberty ",
+      "The Subjection of Women"
+    ]
+  },
+  {
+    "id": "jonathan_kvanvig",
+    "name": "Jonathan Kvanvig",
+    "tradition": "Western",
+    "eras": [
+      "Modern"
+    ],
+    "domains": [
+      "Epistemology"
+    ],
+    "works": [
+      "The Value of Knowledge and the Pursuit of Understanding"
+    ]
+  },
+  {
+    "id": "judea_pearl",
+    "name": "Judea Pearl",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Computer science"
+    ],
+    "works": [
+      "Causality"
+    ]
+  },
+  {
+    "id": "judith_jarvis_thomson",
+    "name": "Judith Jarvis Thomson",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Bioethics"
+    ],
+    "works": [
+      "A Defense of Abortion"
+    ]
+  },
+  {
+    "id": "j_rgen_habermas",
+    "name": "Jürgen Habermas",
+    "tradition": "Western",
+    "eras": [
+      "Unknown"
+    ],
+    "domains": [
+      "Contemporary"
+    ],
+    "works": [
+      "Theory of Communicative Action"
+    ]
+  },
+  {
+    "id": "kanada",
+    "name": "Kanada",
+    "tradition": "Eastern",
+    "eras": [
+      "Various"
+    ],
+    "domains": [
+      "Indian philosophy"
+    ],
+    "works": [
+      "Vaisheshika Sutra"
+    ]
+  },
+  {
+    "id": "karl_l_with",
+    "name": "Karl Löwith",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "History"
+    ],
+    "works": [
+      "Meaning in History: The Theological Implications of the Philosophy of History"
+    ]
+  },
+  {
+    "id": "karl_marx",
+    "name": "Karl Marx",
+    "tradition": "Western",
+    "eras": [
+      "Early Modern"
+    ],
+    "domains": [
+      "Early modern"
+    ],
+    "works": [
+      "The Communist Manifesto",
+      "Das Kapital"
+    ]
+  },
+  {
+    "id": "karl_pearson",
+    "name": "Karl Pearson",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Science"
+    ],
+    "works": [
+      "The Grammar of Science"
+    ]
+  },
+  {
+    "id": "karl_popper",
+    "name": "Karl Popper",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Science",
+      "Politics"
+    ],
+    "works": [
+      "The Logic of Scientific Discovery",
+      "The Open Society and Its Enemies"
+    ]
+  },
+  {
+    "id": "keith_derose",
+    "name": "Keith DeRose",
+    "tradition": "Western",
+    "eras": [
+      "Modern"
+    ],
+    "domains": [
+      "Epistemology"
+    ],
+    "works": [
+      "The Case for Contextualism"
+    ]
+  },
+  {
+    "id": "kenneth_arrow",
+    "name": "Kenneth Arrow",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Economics"
+    ],
+    "works": [
+      "Social Choice and Individual Values"
+    ]
+  },
+  {
+    "id": "kongzi",
+    "name": "Kongzi",
+    "tradition": "Eastern",
+    "eras": [
+      "Various"
+    ],
+    "domains": [
+      "Chinese philosophy"
+    ],
+    "works": [
+      "Analects",
+      "Five Classics"
+    ]
+  },
+  {
+    "id": "kukai",
+    "name": "Kukai",
+    "tradition": "Eastern",
+    "eras": [
+      "Various"
+    ],
+    "domains": [
+      "Japanese philosophy"
+    ],
+    "works": [
+      "Attaining Enlightenment in this Very Existence"
+    ]
+  },
+  {
+    "id": "kurt_g_del",
+    "name": "Kurt Gödel",
+    "tradition": "Western",
+    "eras": [
+      "Modern"
+    ],
+    "domains": [
+      "Logic"
+    ],
+    "works": [
+      "On Formally Undecidable Propositions of Principia Mathematica and Related Systems"
+    ]
+  },
+  {
+    "id": "laozi",
+    "name": "Laozi",
+    "tradition": "Eastern",
+    "eras": [
+      "Various"
+    ],
+    "domains": [
+      "Chinese philosophy"
+    ],
+    "works": [
+      "Dao De Jing"
+    ]
+  },
+  {
+    "id": "larry_laudan",
+    "name": "Larry Laudan",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Science"
+    ],
+    "works": [
+      "The Demise of the Demarcation Problem"
+    ]
+  },
+  {
+    "id": "laurence_bonjour",
+    "name": "Laurence Bonjour",
+    "tradition": "Western",
+    "eras": [
+      "Modern"
+    ],
+    "domains": [
+      "Epistemology"
+    ],
+    "works": [
+      "The Structure of Empirical Knowledge"
+    ]
+  },
+  {
+    "id": "lon_l_fuller",
+    "name": "Lon L. Fuller",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Law"
+    ],
+    "works": [
+      "The Morality of Law"
+    ]
+  },
+  {
+    "id": "louis_althusser",
+    "name": "Louis Althusser",
+    "tradition": "Western",
+    "eras": [
+      "Unknown"
+    ],
+    "domains": [
+      "Contemporary"
+    ],
+    "works": [
+      "Reading Capital"
+    ]
+  },
+  {
+    "id": "luc_bovens",
+    "name": "Luc Bovens",
+    "tradition": "Western",
+    "eras": [
+      "Modern"
+    ],
+    "domains": [
+      "Epistemology"
+    ],
+    "works": [
+      "Bayesian Epistemology"
+    ]
+  },
+  {
+    "id": "luce_irigaray",
+    "name": "Luce Irigaray",
+    "tradition": "Western",
+    "eras": [
+      "Unknown"
+    ],
+    "domains": [
+      "Contemporary"
+    ],
+    "works": [
+      "Speculum of the Other Woman"
+    ]
+  },
+  {
+    "id": "ludwig_wittgenstein",
+    "name": "Ludwig Wittgenstein",
+    "tradition": "Western",
+    "eras": [
+      "Modern",
+      "Contemporary"
+    ],
+    "domains": [
+      "Metaphysics",
+      "Language"
+    ],
+    "works": [
+      "Tractatus Logico-Philosophicus",
+      "Philosophical Investigations"
+    ]
+  },
+  {
+    "id": "ludwig_von_mises",
+    "name": "Ludwig von Mises",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Economics"
+    ],
+    "works": [
+      "The Ultimate Foundation of Economic Science"
+    ]
+  },
+  {
+    "id": "marcus_aurelius",
+    "name": "Marcus Aurelius",
+    "tradition": "Western",
+    "eras": [
+      "Ancient"
+    ],
+    "domains": [
+      "Classical philosophy"
+    ],
+    "works": [
+      "Meditations"
+    ]
+  },
+  {
+    "id": "mario_bunge",
+    "name": "Mario Bunge",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Medicine"
+    ],
+    "works": [
+      "Medical Philosophy: Conceptual Issues in Medicine"
+    ]
+  },
+  {
+    "id": "martha_nussbaum",
+    "name": "Martha Nussbaum",
+    "tradition": "Western",
+    "eras": [
+      "Modern",
+      "Contemporary"
+    ],
+    "domains": [
+      "Modern ethics",
+      "Education"
+    ],
+    "works": [
+      "The Fragility of Goodness",
+      "Not for Profit: Why Democracy Needs the Humanities"
+    ]
+  },
+  {
+    "id": "martin_heidegger",
+    "name": "Martin Heidegger",
+    "tradition": "Western",
+    "eras": [
+      "Unknown"
+    ],
+    "domains": [
+      "Contemporary"
+    ],
+    "works": [
+      "Being and Time"
+    ]
+  },
+  {
+    "id": "mary_wollstonecraft",
+    "name": "Mary Wollstonecraft",
+    "tradition": "Western",
+    "eras": [
+      "Early Modern"
+    ],
+    "domains": [
+      "Early modern"
+    ],
+    "works": [
+      "A Vindication of the Rights of Women"
+    ]
+  },
+  {
+    "id": "maurice_merleau_ponty",
+    "name": "Maurice Merleau-Ponty",
+    "tradition": "Western",
+    "eras": [
+      "Unknown"
+    ],
+    "domains": [
+      "Contemporary"
+    ],
+    "works": [
+      "Phenomenology of Perception"
+    ]
+  },
+  {
+    "id": "max_horkheimer",
+    "name": "Max Horkheimer",
+    "tradition": "Western",
+    "eras": [
+      "Unknown"
+    ],
+    "domains": [
+      "Contemporary"
+    ],
+    "works": [
+      "Dialectic of Enlightenment"
+    ]
+  },
+  {
+    "id": "max_stirner",
+    "name": "Max Stirner",
+    "tradition": "Western",
+    "eras": [
+      "Early Modern"
+    ],
+    "domains": [
+      "Early modern"
+    ],
+    "works": [
+      "The Ego and Its Own"
+    ]
+  },
+  {
+    "id": "mengzi",
+    "name": "Mengzi",
+    "tradition": "Eastern",
+    "eras": [
+      "Various"
+    ],
+    "domains": [
+      "Chinese philosophy"
+    ],
+    "works": [
+      "Mengzi"
+    ]
+  },
+  {
+    "id": "michael_a_smith",
+    "name": "Michael A. Smith",
+    "tradition": "Western",
+    "eras": [
+      "Modern"
+    ],
+    "domains": [
+      "Modern ethics"
+    ],
+    "works": [
+      "The Moral Problem"
+    ]
+  },
+  {
+    "id": "michael_dummett",
+    "name": "Michael Dummett",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Language"
+    ],
+    "works": [
+      "Frege: Philosophy of Language"
+    ]
+  },
+  {
+    "id": "michael_sandel",
+    "name": "Michael Sandel",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Politics"
+    ],
+    "works": [
+      "Liberalism and the Limits of Justice"
+    ]
+  },
+  {
+    "id": "michel_bitbol",
+    "name": "Michel Bitbol",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Physics"
+    ],
+    "works": [
+      "Mécanique quantique : Une introduction philosophique",
+      "Schrödinger’s Philosophy of Quantum Mechanics"
+    ]
+  },
+  {
+    "id": "michel_foucault",
+    "name": "Michel Foucault",
+    "tradition": "Western",
+    "eras": [
+      "Unknown"
+    ],
+    "domains": [
+      "Contemporary"
+    ],
+    "works": [
+      "The Order of Things",
+      "Discipline and Punish"
+    ]
+  },
+  {
+    "id": "michel_de_montaigne",
+    "name": "Michel de Montaigne",
+    "tradition": "Western",
+    "eras": [
+      "Early Modern"
+    ],
+    "domains": [
+      "Early modern"
+    ],
+    "works": [
+      "Essays"
+    ]
+  },
+  {
+    "id": "miyamoto_musashi",
+    "name": "Miyamoto Musashi",
+    "tradition": "Eastern",
+    "eras": [
+      "Various"
+    ],
+    "domains": [
+      "Japanese philosophy"
+    ],
+    "works": [
+      "The Book of Five Rings"
+    ]
+  },
+  {
+    "id": "neil_postman",
+    "name": "Neil Postman",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Education"
+    ],
+    "works": [
+      "Teaching as a Subversive Activity"
+    ]
+  },
+  {
+    "id": "nelson_goodman",
+    "name": "Nelson Goodman",
+    "tradition": "Western",
+    "eras": [
+      "Modern",
+      "Contemporary"
+    ],
+    "domains": [
+      "Aesthetics",
+      "Science"
+    ],
+    "works": [
+      "Languages of Art: An Approach to a Theory of Symbols",
+      "Fact, Fiction, and Forecast"
+    ]
+  },
+  {
+    "id": "niccol_machiavelli",
+    "name": "Niccolò Machiavelli",
+    "tradition": "Western",
+    "eras": [
+      "Early Modern"
+    ],
+    "domains": [
+      "Early modern"
+    ],
+    "works": [
+      "The Prince"
+    ]
+  },
+  {
+    "id": "p_f_strawson",
+    "name": "P.F. Strawson",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Meta-ethics (Metaethics)"
+    ],
+    "works": [
+      "Freedom and Resentment"
+    ]
+  },
+  {
+    "id": "pata_jali",
+    "name": "Patañjali",
+    "tradition": "Eastern",
+    "eras": [
+      "Various"
+    ],
+    "domains": [
+      "Indian philosophy"
+    ],
+    "works": [
+      "Yoga Sutras"
+    ]
+  },
+  {
+    "id": "patricia_churchland",
+    "name": "Patricia Churchland",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Neuroscience"
+    ],
+    "works": [
+      "Brain-Wise : Studies in Neurophilosophy",
+      "Neurophilosophy : Toward a Unified Science of the Mind-Brain"
+    ]
+  },
+  {
+    "id": "paul_benacerraf",
+    "name": "Paul Benacerraf",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Mathematics"
+    ],
+    "works": [
+      "What Numbers Could not Be",
+      "Mathematical Truth",
+      "Philosophy of Mathematics: Selected Readings"
+    ]
+  },
+  {
+    "id": "paul_churchland",
+    "name": "Paul Churchland",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Philosophy of the mind"
+    ],
+    "works": [
+      "Matter and Consciousness: A Contemporary Introduction to the Philosophy of Mind"
+    ]
+  },
+  {
+    "id": "paul_feyerabend",
+    "name": "Paul Feyerabend",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Science"
+    ],
+    "works": [
+      "Against Method: Outline of an Anarchistic Theory of Knowledge"
+    ]
+  },
+  {
+    "id": "paul_ramsey",
+    "name": "Paul Ramsey",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Bioethics"
+    ],
+    "works": [
+      "The Patient as a Person",
+      "Fabricated Man"
+    ]
+  },
+  {
+    "id": "paul_ric_ur",
+    "name": "Paul Ricœur",
+    "tradition": "Western",
+    "eras": [
+      "Unknown"
+    ],
+    "domains": [
+      "Contemporary"
+    ],
+    "works": [
+      "Freud and Philosophy: An Essay on Interpretation"
+    ]
+  },
+  {
+    "id": "paulo_freire",
+    "name": "Paulo Freire",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Education"
+    ],
+    "works": [
+      "Pedagogy of the Oppressed"
+    ]
+  },
+  {
+    "id": "penelope_maddy",
+    "name": "Penelope Maddy",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Mathematics"
+    ],
+    "works": [
+      "Second Philosophy"
+    ]
+  },
+  {
+    "id": "peter_carruthers",
+    "name": "Peter Carruthers",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Philosophy of the mind"
+    ],
+    "works": [
+      "The Architecture of the Mind"
+    ]
+  },
+  {
+    "id": "peter_railton",
+    "name": "Peter Railton",
+    "tradition": "Western",
+    "eras": [
+      "Modern"
+    ],
+    "domains": [
+      "Modern ethics"
+    ],
+    "works": [
+      "Facts, Values, and Norms"
+    ]
+  },
+  {
+    "id": "peter_singer",
+    "name": "Peter Singer",
+    "tradition": "Western",
+    "eras": [
+      "Modern"
+    ],
+    "domains": [
+      "Modern ethics"
+    ],
+    "works": [
+      "Practical Ethics"
+    ]
+  },
+  {
+    "id": "peter_unger",
+    "name": "Peter Unger",
+    "tradition": "Western",
+    "eras": [
+      "Modern"
+    ],
+    "domains": [
+      "Epistemology"
+    ],
+    "works": [
+      "Ignorance: A Case for Scepticism"
+    ]
+  },
+  {
+    "id": "plato",
+    "name": "Plato",
+    "tradition": "Western",
+    "eras": [
+      "Ancient",
+      "Contemporary"
+    ],
+    "domains": [
+      "Classical philosophy",
+      "Politics"
+    ],
+    "works": [
+      "Symposium",
+      "Parmenides",
+      "Phaedrus",
+      "Republic"
+    ]
+  },
+  {
+    "id": "r_paul_thompson",
+    "name": "R. Paul Thompson",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Medicine"
+    ],
+    "works": [
+      "Philosophy of Medicines"
+    ]
+  },
+  {
+    "id": "r_g_collingwood",
+    "name": "R.G. Collingwood",
+    "tradition": "Western",
+    "eras": [
+      "Modern",
+      "Contemporary"
+    ],
+    "domains": [
+      "Aesthetics",
+      "History"
+    ],
+    "works": [
+      "The Principles of Art",
+      "The Idea of History"
+    ]
+  },
+  {
+    "id": "ray_turner",
+    "name": "Ray Turner",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Computer science"
+    ],
+    "works": [
+      "The Philosophy of Computer Science",
+      "Computational Artefacts-Towards a Philosophy of Computer Science"
+    ]
+  },
+  {
+    "id": "ren_descartes",
+    "name": "René Descartes",
+    "tradition": "Western",
+    "eras": [
+      "Modern",
+      "Early Modern"
+    ],
+    "domains": [
+      "Epistemology",
+      "Early modern"
+    ],
+    "works": [
+      "Discourse on the Method",
+      "Meditations on First Philosophy",
+      "Principles of Philosophy",
+      "Passions of the Soul"
+    ]
+  },
+  {
+    "id": "richard_rorty",
+    "name": "Richard Rorty",
+    "tradition": "Western",
+    "eras": [
+      "Modern"
+    ],
+    "domains": [
+      "Epistemology"
+    ],
+    "works": [
+      "Philosophy and the Mirror of Nature"
+    ]
+  },
+  {
+    "id": "richard_swinburne",
+    "name": "Richard Swinburne",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Religion"
+    ],
+    "works": [
+      "The Existence of God"
+    ]
+  },
+  {
+    "id": "robert_brandom",
+    "name": "Robert Brandom",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Language"
+    ],
+    "works": [
+      "Making it Explicit"
+    ]
+  },
+  {
+    "id": "robert_nozick",
+    "name": "Robert Nozick",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Politics"
+    ],
+    "works": [
+      "Anarchy, State, and Utopia"
+    ]
+  },
+  {
+    "id": "roderick_chisholm",
+    "name": "Roderick Chisholm",
+    "tradition": "Western",
+    "eras": [
+      "Modern"
+    ],
+    "domains": [
+      "Epistemology"
+    ],
+    "works": [
+      "Theory of Knowledge"
+    ]
+  },
+  {
+    "id": "roger_scruton",
+    "name": "Roger Scruton",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Music"
+    ],
+    "works": [
+      "Music as an Art"
+    ]
+  },
+  {
+    "id": "ronald_dworkin",
+    "name": "Ronald Dworkin",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Law"
+    ],
+    "works": [
+      "Law's Empire"
+    ]
+  },
+  {
+    "id": "ross_e_g_upshur",
+    "name": "Ross E. G. Upshur",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Medicine"
+    ],
+    "works": [
+      "Philosophy of Medicines"
+    ]
+  },
+  {
+    "id": "rudolf_carnap",
+    "name": "Rudolf Carnap",
+    "tradition": "Western",
+    "eras": [
+      "Modern"
+    ],
+    "domains": [
+      "Metaphysics"
+    ],
+    "works": [
+      "Empiricism, Semantics, and Ontology"
+    ]
+  },
+  {
+    "id": "ruth_millikan",
+    "name": "Ruth Millikan",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Philosophy of the mind",
+      "Biology"
+    ],
+    "works": [
+      "Varieties of Meaning",
+      "Language, Thought, and Other Biological Categories"
+    ]
+  },
+  {
+    "id": "saint_bonaventure",
+    "name": "Saint Bonaventure",
+    "tradition": "Western",
+    "eras": [
+      "Medieval"
+    ],
+    "domains": [
+      "Christian and Medieval ethics"
+    ],
+    "works": [
+      "Commentary on the Sentences"
+    ]
+  },
+  {
+    "id": "samuel_scheffler",
+    "name": "Samuel Scheffler",
+    "tradition": "Western",
+    "eras": [
+      "Modern"
+    ],
+    "domains": [
+      "Modern ethics"
+    ],
+    "works": [
+      "The Rejection of Consequentialism"
+    ]
+  },
+  {
+    "id": "saul_kripke",
+    "name": "Saul Kripke",
+    "tradition": "Western",
+    "eras": [
+      "Modern",
+      "Contemporary"
+    ],
+    "domains": [
+      "Logic",
+      "Language"
+    ],
+    "works": [
+      "Semantical Considerations on Modal Logic",
+      "Naming and Necessity"
+    ]
+  },
+  {
+    "id": "scott_aaronson",
+    "name": "Scott Aaronson",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Computer science"
+    ],
+    "works": [
+      "Why Philosophers Should Care About Computational Complexity"
+    ]
+  },
+  {
+    "id": "shinran",
+    "name": "Shinran",
+    "tradition": "Eastern",
+    "eras": [
+      "Various"
+    ],
+    "domains": [
+      "Japanese philosophy"
+    ],
+    "works": [
+      "Kyogyoshinsho"
+    ]
+  },
+  {
+    "id": "simone_de_beauvoir",
+    "name": "Simone de Beauvoir",
+    "tradition": "Western",
+    "eras": [
+      "Unknown"
+    ],
+    "domains": [
+      "Contemporary"
+    ],
+    "works": [
+      "The Second Sex"
+    ]
+  },
+  {
+    "id": "sir_francis_bacon",
+    "name": "Sir Francis Bacon",
+    "tradition": "Western",
+    "eras": [
+      "Early Modern"
+    ],
+    "domains": [
+      "Early modern"
+    ],
+    "works": [
+      "Novum Organum"
+    ]
+  },
+  {
+    "id": "stanley_cavell",
+    "name": "Stanley Cavell",
+    "tradition": "Western",
+    "eras": [
+      "Modern",
+      "Contemporary"
+    ],
+    "domains": [
+      "Epistemology",
+      "Language"
+    ],
+    "works": [
+      "The Claim of Reason: Wittgenstein, Skepticism, Morality, and Tragedy",
+      "Must We Mean What We Say?"
+    ]
+  },
+  {
+    "id": "stephen_mumford",
+    "name": "Stephen Mumford",
+    "tradition": "Western",
+    "eras": [
+      "Modern"
+    ],
+    "domains": [
+      "Metaphysics"
+    ],
+    "works": [
+      "Dispositions"
+    ]
+  },
+  {
+    "id": "stephen_stich",
+    "name": "Stephen Stich",
+    "tradition": "Western",
+    "eras": [
+      "Modern"
+    ],
+    "domains": [
+      "Epistemology"
+    ],
+    "works": [
+      "The Fragmentation of Reason"
+    ]
+  },
+  {
+    "id": "sunzi",
+    "name": "Sunzi",
+    "tradition": "Eastern",
+    "eras": [
+      "Various"
+    ],
+    "domains": [
+      "Chinese philosophy"
+    ],
+    "works": [
+      "Art of War"
+    ]
+  },
+  {
+    "id": "susan_haack",
+    "name": "Susan Haack",
+    "tradition": "Western",
+    "eras": [
+      "Modern"
+    ],
+    "domains": [
+      "Epistemology"
+    ],
+    "works": [
+      "Evidence and Enquiry"
+    ]
+  },
+  {
+    "id": "susan_hurley",
+    "name": "Susan Hurley",
+    "tradition": "Western",
+    "eras": [
+      "Modern"
+    ],
+    "domains": [
+      "Modern ethics"
+    ],
+    "works": [
+      "Natural Reasons"
+    ]
+  },
+  {
+    "id": "swami_swatamarama",
+    "name": "Swami Swatamarama",
+    "tradition": "Eastern",
+    "eras": [
+      "Various"
+    ],
+    "domains": [
+      "Indian philosophy"
+    ],
+    "works": [
+      "Hatha Yoga Pradipika"
+    ]
+  },
+  {
+    "id": "s_ren_kierkegaard",
+    "name": "Søren Kierkegaard",
+    "tradition": "Western",
+    "eras": [
+      "Early Modern"
+    ],
+    "domains": [
+      "Early modern"
+    ],
+    "works": [
+      "Either/Or",
+      "Fear and Trembling",
+      "The Concept of Anxiety"
+    ]
+  },
+  {
+    "id": "tami",
+    "name": "Tami",
+    "tradition": "Eastern",
+    "eras": [
+      "Various"
+    ],
+    "domains": [
+      "Indian philosophy"
+    ],
+    "works": [
+      "Thiruvalluvar"
+    ]
+  },
+  {
+    "id": "terry_eagleton",
+    "name": "Terry Eagleton",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Postmodern ethics",
+      "Education"
+    ],
+    "works": [
+      "The Illusions of Postmodernism",
+      "The Slow Death of the University"
+    ]
+  },
+  {
+    "id": "theodor_adorno",
+    "name": "Theodor Adorno",
+    "tradition": "Western",
+    "eras": [
+      "Modern",
+      "Unknown"
+    ],
+    "domains": [
+      "Aesthetics",
+      "Contemporary"
+    ],
+    "works": [
+      "Aesthetic Theory",
+      "Negative Dialectics",
+      "Dialectic of Enlightenment"
+    ]
+  },
+  {
+    "id": "theodore_sider",
+    "name": "Theodore Sider",
+    "tradition": "Western",
+    "eras": [
+      "Modern"
+    ],
+    "domains": [
+      "Metaphysics"
+    ],
+    "works": [
+      "Writing the Book of the World"
+    ]
+  },
+  {
+    "id": "thomas_aquinas",
+    "name": "Thomas Aquinas",
+    "tradition": "Western",
+    "eras": [
+      "Medieval"
+    ],
+    "domains": [
+      "Christian and Medieval ethics"
+    ],
+    "works": [
+      "Summa Theologica"
+    ]
+  },
+  {
+    "id": "thomas_hobbes",
+    "name": "Thomas Hobbes",
+    "tradition": "Western",
+    "eras": [
+      "Early Modern"
+    ],
+    "domains": [
+      "Early modern"
+    ],
+    "works": [
+      "Leviathan"
+    ]
+  },
+  {
+    "id": "thomas_m_scanlon",
+    "name": "Thomas M. Scanlon",
+    "tradition": "Western",
+    "eras": [
+      "Modern"
+    ],
+    "domains": [
+      "Modern ethics"
+    ],
+    "works": [
+      "What We Owe to Each Other"
+    ]
+  },
+  {
+    "id": "thomas_samuel_kuhn",
+    "name": "Thomas Samuel Kuhn",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Science"
+    ],
+    "works": [
+      "The Structure of Scientific Revolutions"
+    ]
+  },
+  {
+    "id": "tim_lewens",
+    "name": "Tim Lewens",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Physics"
+    ],
+    "works": [
+      "The Meaning of Science: An Introduction to the Philosophy of Science"
+    ]
+  },
+  {
+    "id": "timothy_williamson",
+    "name": "Timothy Williamson",
+    "tradition": "Western",
+    "eras": [
+      "Modern"
+    ],
+    "domains": [
+      "Epistemology",
+      "Metaphysics"
+    ],
+    "works": [
+      "Knowledge and its Limits",
+      "Modal Logic as Metaphysics"
+    ]
+  },
+  {
+    "id": "vyasa",
+    "name": "Vyasa",
+    "tradition": "Eastern",
+    "eras": [
+      "Various"
+    ],
+    "domains": [
+      "Indian philosophy"
+    ],
+    "works": [
+      "Brahma Sutras"
+    ]
+  },
+  {
+    "id": "w_d_ross",
+    "name": "W.D. Ross",
+    "tradition": "Western",
+    "eras": [
+      "Modern"
+    ],
+    "domains": [
+      "Modern ethics"
+    ],
+    "works": [
+      "The Right and the Good"
+    ]
+  },
+  {
+    "id": "willard_van_orman_quine",
+    "name": "Willard van Orman Quine",
+    "tradition": "Western",
+    "eras": [
+      "Modern",
+      "Contemporary"
+    ],
+    "domains": [
+      "Epistemology",
+      "Metaphysics",
+      "Language"
+    ],
+    "works": [
+      "Epistemology Naturalized",
+      "Two Dogmas of Empiricism",
+      "On What There Is",
+      "Word and Object"
+    ]
+  },
+  {
+    "id": "william_james",
+    "name": "William James",
+    "tradition": "Western",
+    "eras": [
+      "Modern",
+      "Contemporary"
+    ],
+    "domains": [
+      "Metaphysics",
+      "Psychology"
+    ],
+    "works": [
+      "Pragmatism",
+      "The Principles of Psychology"
+    ]
+  },
+  {
+    "id": "william_lane_craig",
+    "name": "William Lane Craig",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Religion"
+    ],
+    "works": [
+      "The Kalam Cosmological Argument"
+    ]
+  },
+  {
+    "id": "william_rowe",
+    "name": "William Rowe",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Religion"
+    ],
+    "works": [
+      "The Evidential Argument from Evil: A Second Look"
+    ]
+  },
+  {
+    "id": "william_of_ockham",
+    "name": "William of Ockham",
+    "tradition": "Western",
+    "eras": [
+      "Medieval"
+    ],
+    "domains": [
+      "Christian and Medieval ethics"
+    ],
+    "works": [
+      "Sum of Logic"
+    ]
+  },
+  {
+    "id": "zeami_motokiyo",
+    "name": "Zeami Motokiyo",
+    "tradition": "Eastern",
+    "eras": [
+      "Various"
+    ],
+    "domains": [
+      "Japanese philosophy"
+    ],
+    "works": [
+      "Style and Flower"
+    ]
+  },
+  {
+    "id": "zhou_dunyi",
+    "name": "Zhou Dunyi",
+    "tradition": "Eastern",
+    "eras": [
+      "Various"
+    ],
+    "domains": [
+      "Chinese philosophy"
+    ],
+    "works": [
+      "The Taiji Tushuo"
+    ]
+  },
+  {
+    "id": "zhu_xi",
+    "name": "Zhu Xi",
+    "tradition": "Eastern",
+    "eras": [
+      "Various"
+    ],
+    "domains": [
+      "Chinese philosophy"
+    ],
+    "works": [
+      "Four Books",
+      "Reflections on Things at Hand"
+    ]
+  },
+  {
+    "id": "zygmunt_bauman",
+    "name": "Zygmunt Bauman",
+    "tradition": "Western",
+    "eras": [
+      "Contemporary"
+    ],
+    "domains": [
+      "Postmodern ethics"
+    ],
+    "works": [
+      "Postmodern Ethics"
+    ]
+  }
+]
